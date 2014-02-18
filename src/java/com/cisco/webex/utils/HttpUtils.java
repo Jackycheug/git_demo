@@ -8,5 +8,9 @@ package com.cisco.webex.utils;
  * @version V1.0   
  */
 public class HttpUtils {
+    
+    public static String getServerName() {
+        return "";
+    }
 
 }
