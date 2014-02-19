@@ -10,7 +10,7 @@ package com.cisco.webex.utils;
 public class HttpUtils {
     
     public static String getServerName() {
-        return "";
+        return "aaa";
     }
 
 }
